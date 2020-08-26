@@ -186,7 +186,6 @@
   reading:
     -
      title: "Homework 2"
-     url:   "../hw2"
 -
   week: "6"
   date: "2020-10-02 23:59:59 CDT"
@@ -224,6 +223,12 @@
        value: 22
        unit: "pages"
 -
+  week: "07"
+  date: "2020-10-09 23:59:59 CDT"
+  reading:
+    -
+     title: "Homework 3"
+-
   week: "8"
   date: "2020-10-16 23:59:59 CDT"
   reading:
@@ -234,6 +239,10 @@
      length: 
        value: 17
        unit: "pages"
+-
+  date: "2020-10-23 23:59:59 CDT"
+  week: "9"
+  reading:
     -
      title: "NMT Ch 9: Decoding"
      url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
@@ -242,37 +251,54 @@
        value: 26
        unit: "pages"
 -
-  week: "08"
-  date: "2020-10-16 23:59:59 CDT"
+  week: "10"
+  date: "2020-10-30 23:59:59 CDT"
   reading:
     -
-     title: "Homework 3"
-     url:   "../hw3"
--
-  date: "2020-10-23 23:59:59 CDT"
-  week: "9"
+     title: "Neural Polysynthetic Language Modelling"
+     url:   "https://arxiv.org/pdf/2005.05477.pdf"
+     length:
+       value: 53
+       unit: "pages"
 -
   week: "10"
   date: "2020-10-30 23:59:59 CDT"
+  reading:
+    -
+     title: "Homework 4"
 -
   week: "11"
   date: "2020-11-06 23:59:59 CST"
+  reading:
+    -
+     title: "NMT Ch 10: Machine Learning Tricks"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "171-191"
+     length: 
+       value: 21
+       unit: "pages"
 -
   week: "12"
   date: "2020-11-13 23:59:59 CST"
+  reading:
+    -
+     title: "NMT Ch 11: Alternate Architectures"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "193-212"
+     length: 
+       value: 20
+       unit: "pages"
 -
   week: "13"
   date: "2020-11-20 23:59:59 CST"
--
-  week: "14"
-  title: "<i>Thanksgiving Break</i>"
--
-  week: "15"
-  date: "2020-12-04 23:59:59 CST"
--
-  week: "16"
-  date: "2020-12-09 23:59:59 CST"
   reading:
+   -
+    title: "Attention Is All You Need"
+    url: "https://arxiv.org/pdf/1706.03762.pdf"
+    optional: true
+    length:
+      value: 15
+      unit: "pages"
    -
     title: "The Annotated Transformer"
     url:   "https://nlp.seas.harvard.edu/2018/04/03/attention.html"
@@ -287,6 +313,38 @@
       value: 22
       unit: "pages"
 -
+  week: "13"
+  date: "2020-11-20 23:59:59 CST"
+  reading:
+    -
+     title: "Homework 5"
+-
+  week: "14"
+  date: "2020-11-27 23:59:59 CST"
+  reading:
+    -
+     title: "<i>Thanksgiving Break</i>"
+-
+  week: "15"
+  date: "2020-12-04 23:59:59 CST"
+  reading:
+    -
+     title: "SMT Ch 11: Tree-Based Models"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "331-369"
+     length: 
+       value: 39
+       unit: "pages"
+    -
+      title: "NMT Ch 15: Linguistic Structure"
+      url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+      optional: true
+      pages: "281-292"
+      length: 
+        value: 11
+        unit: "pages"
+-
+  week: "16"
   date: "2020-12-11 23:59:59 CDT"
   reading:
     -

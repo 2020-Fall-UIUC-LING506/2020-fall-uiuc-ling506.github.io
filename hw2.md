@@ -4,9 +4,6 @@ layout: default
 
 # Homework 2: Word Alignment
 
-
-*Due:* _Friday 2 October 2020 at 11:59 PM CDT_
-
 Aligning words is a key task in machine translation. We start with
 a large _parallel corpus_ of aligned sentences. For example, we might
 have the following sentence pair from the proceedings of the bilingual 
@@ -197,5 +194,5 @@ incorporates some ideas from [Chris Dyer](http://www.cs.cmu.edu/~cdyer).*
 
 Write a written report titled report.tex that compiles without errors using XeLaTeX. Use the article class, and ensure that your report has a title and lists your name as the author.
 
-Commit and push that file [to your HW1 repo on Github](https://classroom.github.com/a/Jzap_dGW) prior to 11:59 PM on Monday 07 September 2020.
+Commit and push that file [to your HW1 repo on Github](https://classroom.github.com/a/Jzap_dGW)
 

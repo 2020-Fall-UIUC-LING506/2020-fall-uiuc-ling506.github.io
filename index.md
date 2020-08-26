@@ -40,20 +40,21 @@ Assessments:
 * You will be responsible for completing homework assignments and turning them in electronically (details will be provided with each assignment)
 * You will be responsible for completing a final project and turning it in electronically (details will be provided when assigned)
 
-Quizzes, logs, and exams will be hosted on [PrairieLearn](https://prairielearn.engr.illinois.edu).
+Quizzes and reading logs will be hosted on [PrairieLearn](https://prairielearn.engr.illinois.edu).
 
 
 ## Course Objectives
 
-The main goal of this course is to excite an interest for and passion in language technologies in the attentive student. 
-
-While many of us know a variety of things about some aspects of language technologies like Siri or Alexa, this course should expound upon what you already know and garner a greater appreciation for the amazing resources available to this generation. 
+The main goal of this course is introduce students to the models and algorithms that underlie modern machine translation techniques.
 
 By the end of this course, you will be able to:
-* Logically discuss the origins of the world's various writing systems
-* Understand and analyze the efficacy of various methods of transliteration, transcription, and translation used to go from one writing system to another
-* Posit theoretical advancements to current language technologies and their potential to impact society
-* Recognize the difficulty involved in the creation of new language technology, and how such challenges can be overcome
+* Understand the issues and tasks involved in preparing corpora for use in machine translation, and be able to perform such tasks
+* Implement a statistical word alignment model and an algorithm to estimate such a model from a sentence-aligned parallel corpus
+* Understand phrase-based statistical machine translation and implement a decoding algorithm for a phrase-based MT model
+* Understand statistical and neural language models and explain how these models relate to statistical and neural machine translation
+* Describe and implement a recurrent neural sequence-to-sequence translation model and decoding algorithm using a current neural toolkit
+* Conduct a thorough literature review on the state-of-the-art in machine translation for a particular language pair
+* Participate in a WMT shared task by training and testing a complete end-to-end machine translation system for a particular language pair, and writing a paper thoroughly describing the system
 	 
 
 
@@ -61,39 +62,41 @@ By the end of this course, you will be able to:
 
 #### Required textbooks
 
-* [Statistical Machine Translation](http://www.statmt.org/book/) (<a href="http://statmt.org/book/errata.html">errata</a>) 
-by <a href="http://www.cs.jhu.edu/~phi/">Philipp Koehn</a><br>
-You can <a href="https://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn-ebook/dp/B00AKE1W9O">rent or purchase the Kindle eBook version of this text</a> from Amazon or <a href="http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157">purchase a paper copy</a> from Amazon. [Electronic access](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5) is also available through CambridgeCore by selecting *Institutional Login* through Shibboleth.
+- [Statistical Machine Translation](http://www.statmt.org/book/) ([errata](http://statmt.org/book/errata.html)) by [Philipp Koehn](http://www.cs.jhu.edu/~phi)
 
-* [Neural Machine Translation](http://www.statmt.org/nmt-book) by <a href="http://www.cs.jhu.edu/~phi/">Philipp Koehn</a><br>
-You can <a href="https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn-ebook/dp/B087D8KX9V">purchase the Kindle eBook version of this text</a> or <a href="https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn/dp/1108497322">purchase a paper copy</a> from Amazon. [Electronic access](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197) is also available through CambridgeCore by selecting *Institutional Login* through Shibboleth.
+  - [Electronic access](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5) is available through CambridgeCore by selecting *Institutional Login* through Shibboleth.
+  - You can [rent or purchase the Kindle eBook version of this text](https://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn-ebook/dp/B00AKE1W9O) from Amazon
+  - You can purchase a paper copy from [the campus bookstore](https://bookstore.illinois.edu/site_text_options.asp?) or [from Amazon ](http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157)
+
+- [Neural Machine Translation](http://www.statmt.org/nmt-book) by [Philipp Koehn](http://www.cs.jhu.edu/~phi)
+
+  - [Electronic access](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197) is available through CambridgeCore by selecting *Institutional Login* through Shibboleth.
+  - You can [purchase the Kindle eBook version of this text](https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn-ebook/dp/B087D8KX9V)
+  - You can purchase a paper copy [the campus bookstore](https://bookstore.illinois.edu/site_text_options.asp?) or [from Amazon](https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn/dp/1108497322). 
+
 
 ## Course Organization
 
-This course is organized into 9 content modules. 
+This course is organized into 9 major topics, with each topic taking 1-2 weeks, for a total of 15 weeks of content.
 
-#### Module organization
+Each major topic will include:
 
-Each module will include:
+* An **overview** of the topic and its contents
+* A list of **learning objectives** which will summarize expected learning goals
+* A list of **required readings** for the topic
+* A playlist of **required videos** for the topic
 
-* A **module overview** which will provide an overview of the module's topic and contents
-* A list of **module learning objectives** which will summarize expected learning goals
-* A list of **required readings** for the module
-* A playlist of **required videos** for the module
-* A description of **module homework** assignment(s), if any, along with due dates
+#### Major topics
 
-#### Module topics
-
-1. Language Technology from the Sumerians to Today
-2. Decipherment of Ancient Scripts
-3. How Different Writing Systems Encode Language
-4. The Invention of Printing
-5. Literacy in Society: How Literati Exclude the Illiterate; The Rise of Literacy
-6. A Brief Introduction to Artificial Intelligence
-7. Precursors to Language Computing: Swift to the 20th Century
-8. Computational Linguistics and Natural Language Processing
-9. Language and the Internet
-
+1. Introduction to machine translation
+2. Managing and modelling data
+3. Statistical word-based machine translation models & algorithms
+4. Statistical phrase-based machine translation models & algorithms
+5. Statistical language models 
+6. Feed-forward and recurrent neural language models
+7. Recurrent neural translation models & algorithms
+8. Transformer-based neural translation models & algorithms
+9. Building and running an end-to-end machine translation system
 
 ## Course Policies
 
@@ -116,14 +119,19 @@ Office hours and one-on-one meetings with students will take place [over Zoom](h
 
 Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of  practical exercises, homework assignments, projects, quizzes and exams.
 
-* **Quizzes**: 30%
-* **Homework 1**: 7.5%
-* **Homework 2**: 7.5%
-* **Homework 3**: 7.5%
-* **Homework 4**: 7.5%
-* **Reading log**: 5%
-* **Mid-term Exam**: 15%
-* **Final Project**: 20%
+* **Quizzes and reading log**: 10%
+* **Homework**:
+  * HW1: 10%
+  * HW2: 10%
+  * HW3: 10%
+  * HW4: 10%
+  * HW5: 10%
+* **Project**:
+  * Proposal: 5%
+  * Literature review: 10%
+  * Checkpoint 1: 5%
+  * Checkpoint 2: 5%
+  * Final report: 15%
 
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
