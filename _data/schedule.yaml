@@ -1,0 +1,377 @@
+-
+  module: "0"
+  week: "1"
+  date: "2020-08-27 23:59:59 CDT"
+  reading:
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5XD5s3KogCZyX81etFT8Wp2"
+     length:
+       value: "47"
+       unit: "minutes"
+    -
+     title: "Syllabus"
+     url: ..
+     length:
+       value: 6
+       unit: "pages"
+    -
+     title: "Academic Integrity Overview"
+     url: "https://las.illinois.edu/academics/integrity"
+     length:
+       value: 8
+       unit: "pages"
+    -
+     title: "Statement"
+     url: "https://studentcode.illinois.edu/article1/part4/1-401/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Infractions"
+     url: "https://studentcode.illinois.edu/article1/part4/1-402/"
+     length:
+       value: 2
+       unit: "pages"
+    -
+     title: "Procedures"
+     url: "https://studentcode.illinois.edu/article1/part4/1-403/"
+     length:
+       value: 3
+       unit: "pages"
+    -
+     title: "Sanctions"
+     url: "https://studentcode.illinois.edu/article1/part4/1-404/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Reporting"
+     url: "https://studentcode.illinois.edu/article1/part4/1-405/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Senate"
+     url: "https://studentcode.illinois.edu/article1/part4/1-406/"
+     length:
+       value: 1
+       unit: "pages"
+    -
+     title: "Quiz 0a"
+     url: "https://prairielearn.engr.illinois.edu"
+-
+  module: "1"
+  week: "1"
+  date: "2020-08-28 23:59:59 CDT"
+  reading:
+    -
+     title: "NMT Ch 1: The Translation Problem"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "3-18"
+     length: 
+       value: 16
+       unit: "pages"
+    -
+     title: "NMT Ch 2: Uses of Machine Translation"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "19-28"
+     length: 
+       value: 10
+       unit: "pages"
+-
+  week: "2"
+  date: "2020-09-04 23:59:59 CDT"
+  reading:
+    -
+     title: "Milestones in MT"
+     url:   "http://www.mt-archive.info/90/LangToday-1998-Hutchins-1.pdf"
+     pages: "22-23"
+     length:
+       value: 2
+       unit: "pages"  
+    -
+     title: "Weaver's Translation Memo"
+     url:   "http://www.mt-archive.info/Weaver-1949.pdf"
+     optional: true
+     length: 
+       value: 12
+       unit: "pages"
+    -
+     title: "NMT Ch 3: History"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "29-40"
+     length: 
+       value: 12
+       unit: "pages"
+    -
+     title: "NMT Ch 4: Evaluation"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "41-64"
+     length: 
+       value: 24
+       unit: "pages"
+-
+  week: "3"
+  date: "2020-09-07 23:59:00 CDT"
+  reading:
+    -
+     title: "Homework 1"
+     url:   "../hw1"
+-
+  week: "3"
+  date: "2020-09-11 23:59:59 CDT"
+  reading:
+    -
+     title: "SMT Ch 3: Probability Theory"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "63-76"
+     length: 
+       value: 14
+       unit: "pages"
+    -
+     title: "SMT Ch 4: Word-Based Models"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "81-124"
+     length: 
+       value: 44
+       unit: "pages"
+    -
+     title: "SMT Tutorial Workbook"
+     url: "https://kevincrawfordknight.github.io/papers/wkbk-rw.pdf"
+     optional: true
+     pages: "1-36"
+     length: 
+       value: 36
+       unit: "pages"
+-
+  week: "4"
+  date: "2020-09-18 23:59:59 CDT"
+  reading:
+    -
+     title: "SMT Ch 2: Words, Sentences, Corpora"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "33-62"
+     length: 
+       value: 30
+       unit: "pages"
+    -
+     title: "NMT Ch 12: Revisiting Words"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "213-238"
+     length: 
+       value: 26
+       unit: "pages"
+-
+  week: "5"
+  date: "2020-09-25 23:59:59 CDT"
+  reading:
+    -
+     title: "SMT Ch 5: Phrase-Based Models"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "127-152"
+     length: 
+       value: 26
+       unit: "pages"
+    -
+     title: "SMT Ch 6: Decoding"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "155-178"
+     length: 
+       value: 24
+       unit: "pages"
+-
+  week: "5"
+  date: "2020-09-25 23:59:59 CDT"
+  reading:
+    -
+     title: "Homework 2"
+     url:   "../hw2"
+-
+  week: "6"
+  date: "2020-10-02 23:59:59 CDT"
+  reading:
+    -
+     title: "SMT Ch 7: Language Models"
+     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+     pages: "181-214"
+     length: 
+       value: 34
+       unit: "pages"
+-
+  week: "7"
+  date: "2020-10-09 23:59:59 CDT"
+  reading:
+    -
+     title: "NMT Ch 5: Neural Networks"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "67-87"
+     length: 
+       value: 20
+       unit: "pages"
+    -
+     title: "NMT Ch 6: Computation Graphs"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "89-101"
+     length: 
+       value: 13
+       unit: "pages"
+    -
+     title: "NMT Ch 7: Neural Language Models"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "103-124"
+     length: 
+       value: 22
+       unit: "pages"
+-
+  week: "8"
+  date: "2020-10-16 23:59:59 CDT"
+  reading:
+    -
+     title: "NMT Ch 8: Neural Translation Models"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "125-141"
+     length: 
+       value: 17
+       unit: "pages"
+    -
+     title: "NMT Ch 9: Decoding"
+     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+     pages: "143-168"
+     length: 
+       value: 26
+       unit: "pages"
+-
+  week: "08"
+  date: "2020-10-16 23:59:59 CDT"
+  reading:
+    -
+     title: "Homework 3"
+     url:   "../hw3"
+-
+  date: "2020-10-23 23:59:59 CDT"
+  week: "9"
+-
+  week: "10"
+  date: "2020-10-30 23:59:59 CDT"
+-
+  week: "11"
+  date: "2020-11-06 23:59:59 CST"
+-
+  week: "12"
+  date: "2020-11-13 23:59:59 CST"
+-
+  week: "13"
+  date: "2020-11-20 23:59:59 CST"
+-
+  week: "14"
+  title: "<i>Thanksgiving Break</i>"
+-
+  week: "15"
+  date: "2020-12-04 23:59:59 CST"
+-
+  week: "16"
+  date: "2020-12-09 23:59:59 CST"
+  reading:
+   -
+    title: "The Annotated Transformer"
+    url:   "https://nlp.seas.harvard.edu/2018/04/03/attention.html"
+    length:
+      value: 34
+      unit: "pages"
+   -
+    title: "The Illustrated Transformer"
+    url:   "http://jalammar.github.io/illustrated-transformer"
+    optional: true
+    length:
+      value: 22
+      unit: "pages"
+-
+  date: "2020-12-11 23:59:59 CDT"
+  reading:
+    -
+     title: "Final project"
+#    -
+#     title: "SMT Ch 9: Discriminative Training"
+#     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+#     pages: "249-287"
+#     length: 
+#       value: 38
+#       unit: "pages"
+#    -
+#     title: "SMT Ch 10: Integrating Linguistic Information"
+#     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+#     pages: "289-327"
+#     length: 
+#       value: 39
+#       unit: "pages"
+#    -
+#     title: "SMT Ch 11: Tree-Based Models"
+#     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+#     pages: "331-369"
+#     length: 
+#       value: 39
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 10: Machine Learning Tricks"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "171-191"
+#     length: 
+#       value: 21
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 11: Alternate Architectures"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "193-212"
+#     length: 
+#       value: 20
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 13: Adaptation"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "239-261"
+#     length: 
+#       value: 23
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 14: Beyond Parallel Corpora"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "263-279"
+#     length: 
+#       value: 17
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 15: Linguistic Structure"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "281-292"
+#     length: 
+#       value: 11
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 16: Current Challenges"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "293-309"
+#     length: 
+#       value: 17
+#       unit: "pages"
+#    -
+#     title: "NMT Ch 17: Analysis and Visualization"
+#     url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
+#     pages: "311-341"
+#     length: 
+#       value: 31
+#       unit: "pages"
+#    -
+#     title: "SMT Ch 1: Introduction"
+#     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+#     pages: "3-30"
+#     length: 
+#       value: 28
+#       unit: "pages"
+#    -
+#     title: "SMT Ch 8: Evaluation"
+#     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
+#     pages: "217-244"
+#     length: 
+#       value: 28
+#       unit: "pages"
