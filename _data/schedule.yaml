@@ -1,11 +1,11 @@
 -
   module: "0"
   week: "1"
-  date: "2020-08-27 23:59:59 CDT"
+  date: "2020-08-28 23:59:59 CDT"
   reading:
     -
      title: "Video playlist"
-     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5XD5s3KogCZyX81etFT8Wp2"
+#     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5XD5s3KogCZyX81etFT8Wp2"
      length:
        value: "47"
        unit: "minutes"
@@ -60,10 +60,11 @@
     -
      title: "Quiz 0a"
      url: "https://prairielearn.engr.illinois.edu"
+    -
+     title: "Quiz 0b"
 -
-  module: "1"
-  week: "1"
-  date: "2020-08-28 23:59:59 CDT"
+  week: "2"
+  date: "2020-09-01 23:59:59 CDT"
   reading:
     -
      title: "NMT Ch 1: The Translation Problem"
@@ -79,6 +80,8 @@
      length: 
        value: 10
        unit: "pages"
+    -
+     title: "Quiz 1"
 -
   week: "2"
   date: "2020-09-04 23:59:59 CDT"
@@ -111,6 +114,8 @@
      length: 
        value: 24
        unit: "pages"
+    -
+     title: "Quiz 2"
 -
   week: "3"
   date: "2020-09-07 23:59:00 CDT"
@@ -144,6 +149,8 @@
      length: 
        value: 36
        unit: "pages"
+    -
+     title: "Quiz 3"
 -
   week: "4"
   date: "2020-09-18 23:59:59 CDT"
@@ -162,6 +169,8 @@
      length: 
        value: 26
        unit: "pages"
+    -
+     title: "Quiz 4"
 -
   week: "5"
   date: "2020-09-25 23:59:59 CDT"
@@ -180,6 +189,8 @@
      length: 
        value: 24
        unit: "pages"
+    -
+     title: "Quiz 5"
 -
   week: "5"
   date: "2020-09-25 23:59:59 CDT"
@@ -197,6 +208,8 @@
      length: 
        value: 34
        unit: "pages"
+    -
+     title: "Quiz 6"
 -
   week: "7"
   date: "2020-10-09 23:59:59 CDT"
@@ -222,6 +235,8 @@
      length: 
        value: 22
        unit: "pages"
+    -
+     title: "Quiz 7"
 -
   week: "07"
   date: "2020-10-09 23:59:59 CDT"
@@ -239,6 +254,8 @@
      length: 
        value: 17
        unit: "pages"
+    -
+     title: "Quiz 8"
 -
   date: "2020-10-23 23:59:59 CDT"
   week: "9"
@@ -250,6 +267,8 @@
      length: 
        value: 26
        unit: "pages"
+    -
+     title: "Quiz 9"
 -
   week: "10"
   date: "2020-10-30 23:59:59 CDT"
@@ -260,6 +279,8 @@
      length:
        value: 53
        unit: "pages"
+    -
+     title: "Quiz 10"
 -
   week: "10"
   date: "2020-10-30 23:59:59 CDT"
@@ -277,6 +298,8 @@
      length: 
        value: 21
        unit: "pages"
+    -
+     title: "Quiz 11"
 -
   week: "12"
   date: "2020-11-13 23:59:59 CST"
@@ -288,6 +311,8 @@
      length: 
        value: 20
        unit: "pages"
+    -
+     title: "Quiz 12"
 -
   week: "13"
   date: "2020-11-20 23:59:59 CST"
@@ -312,6 +337,8 @@
     length:
       value: 22
       unit: "pages"
+   -
+     title: "Quiz 13"
 -
   week: "13"
   date: "2020-11-20 23:59:59 CST"
@@ -343,6 +370,8 @@
       length: 
         value: 11
         unit: "pages"
+    -
+     title: "Quiz 14"
 -
   week: "16"
   date: "2020-12-11 23:59:59 CDT"

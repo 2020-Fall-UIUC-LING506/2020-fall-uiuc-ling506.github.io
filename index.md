@@ -22,8 +22,8 @@ layout: default
 This class will be conducted entirely online, in an entirely asynchronous mode. What does that mean?
 
 Readings and videos:
-* You will be responsible for assigned readings
-* You will be responsible for watching pre-recorded videos
+* You will be responsible for approximately 40 pages per week of assigned readings
+* You will be responsible for watching weekly pre-recorded videos
 
 At any time, you can use [the course forum on Campuswire](https://campuswire.com/c/G0D25C726/feed):
 * to ask the instructor and TAs private questions
