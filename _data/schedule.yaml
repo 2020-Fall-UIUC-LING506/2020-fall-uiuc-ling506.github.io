@@ -60,8 +60,6 @@
     -
      title: "Quiz 0a"
      url: "https://prairielearn.engr.illinois.edu"
-    -
-     title: "Quiz 0b"
 -
   week: "2"
   date: "2020-09-01 23:59:59 CDT"
@@ -80,6 +78,9 @@
      length: 
        value: 10
        unit: "pages"
+    -
+     title: "Quiz 0b"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 1"
 -
