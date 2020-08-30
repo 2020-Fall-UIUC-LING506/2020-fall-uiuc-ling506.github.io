@@ -52,5 +52,5 @@ You will continue your project development by conducting a thorough literature r
   * Look at the resulting *litreview.pdf*. The content of your proposal should be at least as long as the [lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dummy text provided therein.
   * Your *litreview.tex* must successfully compile into *litreview.pdf* without errors on the cl server by running `make litreview.pdf`
 
-
+* Ensure that all changes to *litreview.tex* and *litreview.bib* are committed, and push your *litreview* branch and all its changes to Github.
 
