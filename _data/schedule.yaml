@@ -296,6 +296,7 @@
   reading:
     -
      title: "Project Checkpoint 1"
+     url: "../project#checkpoint-1"
 -
   week: "10"
   date: "2020-10-30 23:59:59 CDT"
@@ -346,6 +347,7 @@
   reading:
     -
      title: "Project Checkpoint 2"
+     url: "../project#checkpoint-2"
 -
   week: "13"
   date: "2020-11-20 23:59:59 CST"
@@ -418,6 +420,7 @@
   reading:
     -
      title: "Project Final Report"
+     url: "../project#final-report"
 #    -
 #     title: "SMT Ch 9: Discriminative Training"
 #     url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
