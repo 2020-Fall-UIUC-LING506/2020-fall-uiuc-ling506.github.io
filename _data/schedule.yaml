@@ -79,6 +79,12 @@
        value: 10
        unit: "pages"
     -
+     title: "Intro video from Philipp Koehn"
+     url: "https://youtu.be/DuYkqCQEbpo"
+     length:
+       value: "53"
+       unit: "minutes"
+    -
      title: "Quiz 0b"
      url: "https://prairielearn.engr.illinois.edu"
 -
