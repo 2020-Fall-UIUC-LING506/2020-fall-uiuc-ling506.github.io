@@ -79,7 +79,7 @@
        value: 10
        unit: "pages"
     -
-     title: "Intro video from Philipp Koehn"
+     title: "Introduction to Machine Translation"
      url: "https://youtu.be/DuYkqCQEbpo"
      length:
        value: "53"
@@ -163,6 +163,12 @@
      length: 
        value: 36
        unit: "pages"
+    -
+     title: "Basics in Language and Probability"
+     url:   "https://www.youtube.com/watch?v=dsBioR-U5P4"
+     length:
+       value: 59
+       unit: "minutes"
     -
      title: "Quiz 3"
 -
