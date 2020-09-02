@@ -65,6 +65,13 @@
   date: "2020-09-01 23:59:59 CDT"
   reading:
     -
+     title: "Quiz 0b"
+     url: "https://prairielearn.engr.illinois.edu"
+-
+  week: "2"
+  date: "2020-09-04 23:59:59 CDT"
+  reading:
+    -
      title: "NMT Ch 1: The Translation Problem"
      url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
      pages: "3-18"
@@ -78,19 +85,6 @@
      length: 
        value: 10
        unit: "pages"
-    -
-     title: "Introduction to Machine Translation"
-     url: "https://youtu.be/DuYkqCQEbpo"
-     length:
-       value: "53"
-       unit: "minutes"
-    -
-     title: "Quiz 0b"
-     url: "https://prairielearn.engr.illinois.edu"
--
-  week: "2"
-  date: "2020-09-04 23:59:59 CDT"
-  reading:
     -
      title: "Milestones in MT: Part 1"
      url:   "http://www.mt-archive.info/90/LangToday-1997-Hutchins.pdf"
@@ -124,6 +118,12 @@
      length: 
        value: 24
        unit: "pages"
+    -
+     title: "Video playlist"
+     url: "https://www.youtube.com/playlist?list=PLydysiDoFy5UPAwjFxOTPuhjYnLRa5jol"
+     length:
+       value: "226"
+       unit: "minutes"
     -
      title: "Quiz 1"
      url: "https://prairielearn.engr.illinois.edu"
