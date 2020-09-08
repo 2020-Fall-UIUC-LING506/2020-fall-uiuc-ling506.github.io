@@ -223,6 +223,9 @@
        value: 24
        unit: "pages"
     -
+     title: "Decoding demo"
+     url: "http://mt-class.org/jhu/stack-decoder/"
+    -
      title: "Quiz 5"
 -
   week: "5"
@@ -241,6 +244,12 @@
      length: 
        value: 34
        unit: "pages"
+    -
+     title: "Language Models"
+     url:   "https://youtu.be/Vj4wZsSnO1Q"
+     length:
+       value: 69
+       unit: "minutes"
     -
      title: "Quiz 6"
 -
