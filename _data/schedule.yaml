@@ -170,6 +170,12 @@
        value: 59
        unit: "minutes"
     -
+     title: "IBM Model 1 and the EM algorithm"
+     url:   "https://youtu.be/5etGx8OZE7I"
+     length:
+       value: 56
+       unit: "minutes"
+    -
      title: "Quiz 3"
 -
   week: "4"
