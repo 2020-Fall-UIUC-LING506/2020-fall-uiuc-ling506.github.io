@@ -216,12 +216,24 @@
        value: 26
        unit: "pages"
     -
+     title: "Video: Phrase-Based Models"
+     url:   "https://youtu.be/AwZSgHikWwk"
+     length:
+       value: 47
+       unit: "minutes"
+    -
      title: "SMT Ch 6: Decoding"
      url: "https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5"
      pages: "155-178"
      length: 
        value: 24
        unit: "pages"
+    -
+     title: "Video: Decoding"
+     url:   "https://youtu.be/dBEOdWs15oY"
+     length:
+       value: 65
+       unit: "minutes"
     -
      title: "Decoding demo"
      url: "http://mt-class.org/jhu/stack-decoder/"
