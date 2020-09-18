@@ -175,8 +175,6 @@
      length:
        value: 56
        unit: "minutes"
-    -
-     title: "Quiz 3"
 -
   week: "4"
   date: "2020-09-18 23:59:59 CDT"
@@ -195,8 +193,6 @@
      length: 
        value: 26
        unit: "pages"
-    -
-     title: "Quiz 4"
 -
   week: "4"
   date: "2020-09-18 23:59:59 CDT"
@@ -237,6 +233,10 @@
     -
      title: "Decoding demo"
      url: "http://mt-class.org/jhu/stack-decoder/"
+    -
+     title: "Quiz 3"
+    -
+     title: "Quiz 4"
     -
      title: "Quiz 5"
 -
