@@ -235,10 +235,13 @@
      url: "http://mt-class.org/jhu/stack-decoder/"
     -
      title: "Quiz 3"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 4"
+     url: "https://prairielearn.engr.illinois.edu"
     -
      title: "Quiz 5"
+     url: "https://prairielearn.engr.illinois.edu"
 -
   week: "5"
   date: "2020-09-25 23:59:59 CDT"
@@ -257,7 +260,7 @@
        value: 34
        unit: "pages"
     -
-     title: "Language Models"
+     title: "Video: Language Models"
      url:   "https://youtu.be/Vj4wZsSnO1Q"
      length:
        value: 69
@@ -282,6 +285,12 @@
      length: 
        value: 20
        unit: "pages"
+    -
+     title: "Video: Introduction to Neural Networks"
+     url:   "https://youtu.be/Nx6rXYU-dls"
+     length:
+       value: 55
+       unit: "minutes"
     -
      title: "NMT Ch 6: Computation Graphs"
      url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
