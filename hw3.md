@@ -1,5 +1,6 @@
 ---
 layout: default
+mathjax: true
 ---
 
 # Homework 3: Decoding
