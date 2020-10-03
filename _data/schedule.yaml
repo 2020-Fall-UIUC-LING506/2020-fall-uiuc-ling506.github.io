@@ -299,12 +299,24 @@
        value: 13
        unit: "pages"
     -
+     title: "Video: Computation Graphs"
+     url:   "https://youtu.be/vD3vSif6OVA"
+     length:
+       value: 41
+       unit: "minutes"
+    -
      title: "NMT Ch 7: Neural Language Models"
      url: "https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197"
      pages: "103-124"
      length: 
        value: 22
        unit: "pages"
+    -
+     title: "Video: Neural Language Models"
+     url:   "https://youtu.be/Sho-b4-9ODE"
+     length:
+       value: 36
+       unit: "minutes"
     -
      title: "Quiz 7"
 -
