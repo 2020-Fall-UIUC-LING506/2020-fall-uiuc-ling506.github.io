@@ -33,15 +33,7 @@ $$\begin{align*} \textbf{e}^* & = \arg \max_{\textbf{e}} p(\textbf{e} \mid \text
 
 #### Getting Started
 
-If you have a clone of the repository from 
-[word alignment](hw1.html), you can update it 
-from your working directory:
-
-    git pull origin master
-
-Alternatively, get a fresh copy:
-
-    git clone https://github.com/alopez/en600.468.git
+Clone your HW3 from github classroom.
 
 Under the `decode` directory, you now have simple decoder.
 Test it out!
@@ -159,43 +151,7 @@ You can also try to approximate $$p(\textbf{e} \mid \textbf{f})$$ directly.
 * [Use variational algorithms](http://aclweb.org/anthology//P/P09/P09-1067.pdf).
 * [Use Markov chain Monte Carlo algorithms](http://aclweb.org/anthology//W/W09/W09-1114.pdf).
 
-But the sky's the limit! There are many ways to decode.
-You can try anything you want as long as you follow the ground rules:
 
-#### Ground Rules
-
-* You can work in independently or in groups of up to three, under these 
-  conditions: 
-  1. You must announce the group publicly on piazza.
-  1. You agree that everyone in the group will receive the same grade on the assignment. 
-  1. You can add people or merge groups at any time before the assignment is
-     due. **You cannot drop people from your group once you've added them.**
-  We encourage collaboration, but we will not adjudicate Rashomon-style 
-  stories about who did or did not contribute.
- 1. You must submit the assignment once per group on Gradescope, and indicate your collaborators once you upload the files.  
- * You must turn in three things to [Gradescope](https://www.gradescope.com/):
-  1. Your translations of the entire dataset. You can upload new output as often as you like, up until the assignment deadline. **Your translated file must be named `translations`.**
-  1. Your code, uploaded to [Gradescope](https://www.gradescope.com/).  You are free to extend the code we provide or roll your own in whatever langugage you like, but the code should be self-contained, and easy to use. Please include a readme for your code. 
-  1. A clear, mathematical description of your algorithm and its motivation
-     written in scientific style, uploaded to [Gradescope](https://www.gradescope.com/). This needn't be long, but it should be
-     clear enough that one of your fellow students could re-implement it 
-     exactly. If you modified your algorithm or have more than 1 algorithm, explain each modification/algorithm clearly. Give the dev scores for each modification/algorithm, and the test score for your final choice.
-*  You do not need any other data than what we provide. You can
-   free to use any code or software you like, __except for those
-   expressly intended to decode machine translation models__. 
-   You must write your own decoder. If you want to use finite-state
-   libraries, solvers for traveling salesman problems, or
-   integer linear programming toolkits, that is fine. 
-   But machine translation software including (but not limited to)
-   Moses, cdec, Joshua, or phrasal is off-limits. You may of course inspect 
-   these systems if it helps you understand how they work. But be warned: they are
-   generally quite complicated because they provide a great deal of other
-   functionality that is not the focus of this assignment.
-   It is possible to complete the assignment with a modest amount
-   of python code. If you aren't sure whether something is permitted, 
-   ask us. If you want to do system combination, join forces with 
-   your classmates.
-* Don't wait till the last minute, this assignment is longer than the previous.
 
 *Credits: This assignment was developed by [Adam Lopez](http://alopez.github.io/), 
 [Matt Post](http://cs.jhu.edu/~post/),
