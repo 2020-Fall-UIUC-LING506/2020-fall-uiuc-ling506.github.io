@@ -317,14 +317,6 @@
      length:
        value: 36
        unit: "minutes"
-    -
-     title: "Quiz 7"
--
-  week: "07"
-  date: "2020-10-09 23:59:59 CDT"
-  reading:
-    -
-     title: "Homework 3"
 -
   week: "8"
   date: "2020-10-16 23:59:59 CDT"
@@ -337,7 +329,11 @@
        value: 17
        unit: "pages"
     -
-     title: "Quiz 8"
+     title: "Video: Neural Translation Models"
+     url:   "https://youtu.be/1uoOk2S6GUk"
+     length:
+       value: 39
+       unit: "minutes"    
 -
   date: "2020-10-23 23:59:59 CDT"
   week: "9"
@@ -350,11 +346,17 @@
        value: 26
        unit: "pages"
     -
-     title: "Quiz 9"
+     title: "Video: Neural Translation Model Decoding"
+     url:   "https://youtu.be/0DsWLXNIxeA"
+     length:
+       value: 47
+       unit: "minutes" 
 -
   date: "2020-10-23 23:59:59 CDT"
   week: "9"
   reading:
+    -
+     title: "Homework 3"
     -
      title: "Project Checkpoint 1"
      url: "../project#checkpoint-1"
