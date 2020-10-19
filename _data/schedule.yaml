@@ -352,16 +352,6 @@
        value: 47
        unit: "minutes" 
 -
-  date: "2020-10-23 23:59:59 CDT"
-  week: "9"
-  reading:
-    -
-     title: "Homework 3"
-     url: "hw3"
-    -
-     title: "Project Checkpoint 1"
-     url: "../project#checkpoint-1"
--
   week: "10"
   date: "2020-10-30 23:59:59 CDT"
   reading:
@@ -372,13 +362,27 @@
        value: 53
        unit: "pages"
     -
-     title: "Quiz 10"
+     title: "Video: Neural Polysynthetic Language Modelling (JSALT opening video)"
+     url:   "https://www.youtube.com/watch?v=fDd2AnJfFc8&t=8524"
+     length:
+       value: 30
+       unit: "minutes" 
+    -
+     title: "Video: Neural Polysynthetic Language Modelling (JSALT closing video)"
+     url:   "https://www.youtube.com/watch?v=f9q9oWrBuqc&t=1671"
+     length:
+       value: 120
+       unit: "minutes" 
 -
   week: "10"
   date: "2020-10-30 23:59:59 CDT"
   reading:
     -
-     title: "Homework 4"
+     title: "Homework 3"
+     url: "hw3"
+    -
+     title: "Project Checkpoint 1"
+     url: "../project#checkpoint-1"
 -
   week: "11"
   date: "2020-11-06 23:59:59 CST"
@@ -391,7 +395,11 @@
        value: 21
        unit: "pages"
     -
-     title: "Quiz 11"
+     title: "Video: Machine Learning Tricks"
+     url:   "https://youtu.be/J3v5b27NDtc"
+     length:
+       value: 78
+       unit: "minutes" 
 -
   week: "12"
   date: "2020-11-13 23:59:59 CST"
@@ -404,7 +412,11 @@
        value: 20
        unit: "pages"
     -
-     title: "Quiz 12"
+     title: "Video: Alternative Architectures"
+     url:   "https://youtu.be/p8bj_sIfN6w"
+     length:
+       value: 66
+       unit: "minutes" 
 -
   week: "12"
   date: "2020-11-13 23:59:59 CST"
@@ -443,8 +455,6 @@
     length:
       value: 22
       unit: "pages"
-   -
-     title: "Quiz 13"
 -
   week: "13"
   date: "2020-11-20 23:59:59 CST"
