@@ -70,7 +70,7 @@ You will continue your project development by conducting a thorough literature r
   * Copy any relevant text from *02-litreview.tex* into *03-checkpoint1.tex*
   * Begin by compiling 03-checkpoint1.pdf by running `make 03-checkpoint1.pdf`
     * Look at the resulting *03-checkpoint1.pdf*. The content of your proposal should be at least as long as the [lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dummy text provided therein.
-  * Edit *03-checkpoint1.tex*. The content of your literature review should thoroughly describe the current state-of-the-art in machine translation for your selected language pair.
+  * Edit *03-checkpoint1.tex*. You will now add an Approach section, with Data and Methods subsections.
   * Look at the resulting *03-checkpoint1.pdf*. The content of your work should be at least as long as the [lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dummy text provided therein.
   * Your *03-checkpoint1.tex* must successfully compile into *03-checkpoint1.pdf* without errors on the cl server by running `make 03-checkpoint1.pdf`
 
@@ -94,7 +94,7 @@ You will continue your project development by conducting a thorough literature r
   * Copy any relevant text from *03-checkpoint1.tex* into *04-checkpoint2.tex*
   * Begin by compiling 04-checkpoint2.pdf by running `make 04-checkpoint2.pdf`
     * Look at the resulting *04-checkpoint2.pdf*. The content of your proposal should be at least as long as the [lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dummy text provided therein.
-  * Edit *04-checkpoint2.tex*. The content of your literature review should thoroughly describe the current state-of-the-art in machine translation for your selected language pair.
+  * Edit *04-checkpoint2.tex*. You will now add a Preliminary Results section.
   * Look at the resulting *04-checkpoint2.pdf*. The content of your work should be at least as long as the [lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) dummy text provided therein.
   * Your *04-checkpoint2.tex* must successfully compile into *04-checkpoint2.pdf* without errors on the cl server by running `make 04-checkpoint2.pdf`
 
