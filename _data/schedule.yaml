@@ -481,7 +481,17 @@
         value: 11
         unit: "pages"
     -
-     title: "Quiz 14"
+     title: "Video: Words and Morphology"
+     url:   "https://youtu.be/tZH1TltU3HQ"
+     length:
+       value: 59
+       unit: "minutes"         
+    -
+     title: "Video: Syntax and Semantics"
+     url:   "https://youtu.be/NAKQta_fjlg"
+     length:
+       value: 65
+       unit: "minutes" 
 -
   week: "15"
   date: "2020-12-04 23:59:59 CST"
