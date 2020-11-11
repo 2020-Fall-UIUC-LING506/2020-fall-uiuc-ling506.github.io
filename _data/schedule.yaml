@@ -456,12 +456,6 @@
       value: 22
       unit: "pages"
 -
-  week: "13"
-  date: "2020-11-20 23:59:59 CST"
-  reading:
-    -
-     title: "Homework 5"
--
   week: "14"
   date: "2020-11-27 23:59:59 CST"
   reading:
@@ -488,6 +482,12 @@
         unit: "pages"
     -
      title: "Quiz 14"
+-
+  week: "15"
+  date: "2020-12-04 23:59:59 CST"
+  reading:
+    -
+     title: "Homework 5"
 -
   week: "16"
   date: "2020-12-11 23:59:59 CDT"
